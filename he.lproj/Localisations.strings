@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AIRDROP_CONTACTS</key>
+	<string>AirDrop:\nאנשי קשר בלבד</string>
+	<key>AIRDROP_EVERYONE</key>
+	<string>AirDrop:\nכולם</string>
+	<key>AIRDROP_MENU_CANCEL</key>
+	<string>ביטול</string>
+	<key>AIRDROP_MENU_CONTACTS</key>
+	<string>אנשי קשר בלבד</string>
+	<key>AIRDROP_MENU_EVERYONE</key>
+	<string>כולם</string>
+	<key>AIRDROP_MENU_OFF</key>
+	<string>קבלת פריטים כבויה</string>
+	<key>AIRDROP_MENU_TITLE</key>
+	<string>באפשרותך להיות גלוי/ה לקבלה בAirDrop מכולם או רק מאנשי הקשר שלך.</string>
+	<key>AIRDROP_OFF</key>
+	<string>AirDrop:\nקבלת פריטים כבויה</string>
+	<key>AIRPLAY_MIRRORING</key>
+	<string>שיקוף\nמסך</string>
+	<key>DARK_MODE_OFF</key>
+	<string>מצב חשוך: כבוי</string>
+	<key>DARK_MODE_ON</key>
+	<string>מצב חשוך: פעיל</string>
+	<key>NIGHT_SHIFT_OFF</key>
+	<string>Night Shift: כבוי</string>
+	<key>NIGHT_SHIFT_ON</key>
+	<string>Night Shift: פעיל</string>
+</dict>
+</plist>
